@@ -1,0 +1,37 @@
+ESTRUTURA DO PLUGIN
+===================
+
+ATENCAO: a pasta .claude-plugin comeca com ponto e fica OCULTA por padrao
+no Windows e no Mac. Ela ESTA aqui. Para ve-la:
+- Windows: no Explorador, aba "Exibir" > marcar "Itens ocultos"
+- Mac: no Finder, apertar Cmd + Shift + . (ponto)
+
+Conteudo completo:
+
+.claude-plugin/
+   plugin.json
+   marketplace.json
+skills/
+   revisar-posicionamento/SKILL.md
+   analisar-concorrente/SKILL.md
+   desenhar-esteira/SKILL.md
+   canais-aquisicao-entrega/SKILL.md
+   calendario-editorial/SKILL.md
+   roteiro-video/SKILL.md
+   escrever-linkedin/SKILL.md
+   artigo-site-jusbrasil/SKILL.md
+   reaproveitar-conteudo/SKILL.md
+   atendimento-lead/SKILL.md
+   analisar-leads-semana/SKILL.md
+   fechar-mes-comercial/SKILL.md
+   precificar-servico-juridico/SKILL.md
+   estruturar-escopo-comercial/SKILL.md
+   elaborar-proposta-comercial/SKILL.md
+   relacionamento-posvenda/SKILL.md
+   construir-identidade-marca/SKILL.md
+   template-proposta-honorarios/SKILL.md
+   template-contrato-honorarios/SKILL.md
+   template-documento-operacional/SKILL.md
+README.md
+
+Total: 23 arquivos (2 JSON + 20 SKILL.md + 1 README) + este ESTRUTURA.txt
