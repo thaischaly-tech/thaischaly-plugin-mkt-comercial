@@ -1,0 +1,12 @@
+{
+  "name": "scaldgen-mkt-comercial",
+  "version": "1.0.0",
+  "description": "Sistema Scaldgen de Marketing e Comercial para escritorios de advocacia. 20 skills cobrindo posicionamento, producao de conteudo, comercial, precificacao e templates de documentos.",
+  "author": {
+    "name": "Thais Chaly",
+    "url": "https://github.com/thaischaly-tech"
+  },
+  "homepage": "https://github.com/thaischaly-tech/thaischaly-plugin-mkt-comercial",
+  "license": "Proprietary",
+  "keywords": ["advocacia", "marketing-juridico", "comercial", "scaldgen", "gestao"]
+}
