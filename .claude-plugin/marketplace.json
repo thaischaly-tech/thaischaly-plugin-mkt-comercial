@@ -1,0 +1,14 @@
+{
+  "name": "scaldgen-marketplace",
+  "owner": {
+    "name": "Thais Chaly",
+    "url": "https://github.com/thaischaly-tech"
+  },
+  "plugins": [
+    {
+      "name": "scaldgen-mkt-comercial",
+      "source": "./",
+      "description": "Sistema Scaldgen de Marketing e Comercial para escritorios de advocacia. 20 skills cobrindo posicionamento, producao de conteudo, comercial, precificacao e templates de documentos."
+    }
+  ]
+}
